@@ -2,7 +2,7 @@
 templateKey: about-page
 title: Sobre
 ---
-### Shade-grown coffee
+### SUDO
 
 El semillero SUDO inició su trabajo en el año 2016 por medio de pequeñas reuniones en donde los participantes compartieron sus intereses y conocimientos previos relacionados al área de artes electrónicas. Poco a poco fueron así surgiendo inquietudes conceptuales y técnicas que dieron paso al primer proyecto del grupo: CRITICÓN 2000.
 
