@@ -2,8 +2,6 @@
 templateKey: about-page
 title: Sobre
 ---
-### SUDO
-
 El semillero SUDO inició su trabajo en el año 2016 por medio de pequeñas reuniones en donde los participantes compartieron sus intereses y conocimientos previos relacionados al área de artes electrónicas. Poco a poco fueron así surgiendo inquietudes conceptuales y técnicas que dieron paso al primer proyecto del grupo: CRITICÓN 2000.
 
 Este trabajo es un dispositivo diseñado para la generación de discursos estéticos, cuyo objetivo es crear un comentario crítico sobre las obras presentes en la exposición en la que él se encuentre participando; siendo así un trabajo que reflexiona sobre los lugares comunes y las estructuras usadas en los discursos académicos e institucionales del arte.
