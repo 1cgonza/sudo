@@ -1,25 +1,13 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Sobre
 ---
-
 ### Shade-grown coffee
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+El semillero SUDO inició su trabajo en el año 2016 por medio de pequeñas reuniones en donde los participantes compartieron sus intereses y conocimientos previos relacionados al área de artes electrónicas. Poco a poco fueron así surgiendo inquietudes conceptuales y técnicas que dieron paso al primer proyecto del grupo: CRITICÓN 2000.
 
-### Single origin
+Este trabajo es un dispositivo diseñado para la generación de discursos estéticos, cuyo objetivo es crear un comentario crítico sobre las obras presentes en la exposición en la que él se encuentre participando; siendo así un trabajo que reflexiona sobre los lugares comunes y las estructuras usadas en los discursos académicos e institucionales del arte.
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Además de este ejemplo concreto nos interesa realizar proyectos de creación e investigación que indaguen en las relaciones entre arte, tecnología y sociedad, que permitan cuestionar y señalar vínculos entre discursos estéticos y tecnológicos del quehacer artístico.
 
-### Sustainable farming
-
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Actualmente nos encontramos configurando un proyecto de investigación y creación alrededor del imaginario del hacker; el cual espera vincular una reflexión sobre un término que abarca un gran abanico de posibilidades y personalidad, frente la imagen construida por los medios de comunicación y espacios de cultura visual.
